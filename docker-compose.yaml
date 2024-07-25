@@ -4,4 +4,4 @@ services:
   web:
     image: "sheshdhar3/node-app-cicd:srlatest"
     ports:
-      - "8000:8000"
+      - "8777:8000"
