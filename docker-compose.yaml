@@ -2,6 +2,6 @@ version: '3.3'
 
 services:
   web:
-    image: "sheshdhar3/node-app-cicd:srlatest"
+    image: "sheshdhar3/node-todo-cicd:final"
     ports:
       - "8777:8000"
