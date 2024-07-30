@@ -16,7 +16,7 @@
 
 ## Pre-requisites to implement this project:
 
--  AWS EC2 instance (Ubuntu) with instance type t2.large and root volume 29GB.
+-  AWS EC2 instance or WSL (Ubuntu) with instance type t2.large and root volume 29GB.
 
 -  Jenkins installed <br>
     - Reference: <b><a href="https://www.jenkins.io/doc/book/installing/linux/#long-term-support-release"><u> Jenkins installation </a></u></b>
